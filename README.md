@@ -1,6 +1,10 @@
-# io_scene_bfbb_anm
+# io_scene_evilengine_anm
 
-This plugin for Blender 3D allows you to import and export animations (`.anm`) from SpongeBob SquarePants: Battle for Bikini Bottom game (and some other Heavy Iron Studios games). Based on [BFBBAnimTools](https://github.com/seilweiss/BFBBAnimTools).
+Fork of [io_scene_bfbb_anm](https://github.com/psycrow101/io_scene_bfbb_anm):
+* Added "The Incredibles: Rise of the Underminer" & "Ratatouille Prototype" support
+* Ensures all keyframes, including the last keyframe, are accurately imported and exported.
+
+This plugin for Blender 3D allows you to import and export animations (`.anm`) from all Heavy Iron Studios EvilEngine (2002-2006) games. Based on [BFBBAnimTools](https://github.com/seilweiss/BFBBAnimTools).
 
 ## How to import animation
 
